@@ -2,7 +2,7 @@
 ::1  localhost
 #
 # block ads via hosts file
-# last updated: 20180608
+# last updated: 20180612
 #
 #fetched from adaway.org/hosts.txt
 #
@@ -26049,6 +26049,7 @@
 127.0.0.1	d.adx.io
 127.0.0.1	d.adxcore.com
 127.0.0.1	d.afftrx.com
+127.0.0.1	d.agkn.com
 127.0.0.1	d.annarbor.com
 127.0.0.1	d.applovin.com
 127.0.0.1	d.appsdt.com
@@ -30152,6 +30153,7 @@
 127.0.0.1	imgcache.classesusa.com
 127.0.0.1	imgclck.com
 127.0.0.1	imgfarm.com
+127.0.0.1	imgg-cdn.adskeeper.co.uk
 127.0.0.1	imgg.adskeeper.co.uk
 127.0.0.1	imgg.marketgid.com
 127.0.0.1	imgg.steepto.com
@@ -46368,6 +46370,7 @@
 127.0.0.1 ad.nwt.cz
 127.0.0.1 ad.onad.eu
 127.0.0.1 ad.pandora.tv
+127.0.0.1 ad.period-calendar.com
 127.0.0.1 ad.preferances.com
 127.0.0.1 ad.profiwin.de
 127.0.0.1 ad.prv.pl
@@ -46758,6 +46761,7 @@
 127.0.0.1 ads.mediaodyssey.com
 127.0.0.1 ads.medienhaus.de
 127.0.0.1 ads.mgnetwork.com
+127.0.0.1 ads.miarroba.com
 127.0.0.1 ads.mmania.com
 127.0.0.1 ads.mobilautomaten.com
 127.0.0.1 ads.motor-forum.nl
@@ -47478,6 +47482,7 @@
 127.0.0.1 connatix.com
 127.0.0.1 connextra.com
 127.0.0.1 consciouscabbage.com
+127.0.0.1 contadores.miarroba.com
 127.0.0.1 contaxe.de
 127.0.0.1 content.acc-hd.de
 127.0.0.1 content.ad
@@ -47789,6 +47794,7 @@
 127.0.0.1 hit.ua
 127.0.0.1 hit.webcentre.lycos.co.uk
 127.0.0.1 hitbox.com
+127.0.0.1 hitcounters.miarroba.com
 127.0.0.1 hitfarm.com
 127.0.0.1 hitiz.com
 127.0.0.1 hitlist.ru
@@ -47909,7 +47915,6 @@
 127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kliks.nl
-127.0.0.1 kniverto.com
 127.0.0.1 knorex.com
 127.0.0.1 koinser.in
 127.0.0.1 komoona.com
@@ -48037,7 +48042,6 @@
 127.0.0.1 metrilo.com
 127.0.0.1 mg2connext.com
 127.0.0.1 mgid.com
-127.0.0.1 miarroba.com
 127.0.0.1 microstatic.pl
 127.0.0.1 microticker.com
 127.0.0.1 midnightclicking.com
@@ -48160,6 +48164,7 @@
 127.0.0.1 onestat.com
 127.0.0.1 onestatfree.com
 127.0.0.1 online-metrix.net
+127.0.0.1 online.miarroba.com
 127.0.0.1 onlinecash.com
 127.0.0.1 onlinecashmethod.com
 127.0.0.1 onlinerewardcenter.com
@@ -48832,7 +48837,6 @@
 127.0.0.1 www.kaplanindex.com
 127.0.0.1 www.money4exit.de
 127.0.0.1 www.photo-ads.co.uk
-127.0.0.1 www1.gto-media.com
 127.0.0.1 www8.glam.com
 127.0.0.1 wwwpromoter.com
 127.0.0.1 x-traceur.com
