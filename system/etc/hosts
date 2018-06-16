@@ -2,7 +2,7 @@
 ::1  localhost
 #
 # block ads via hosts file
-# last updated: 20180612
+# last updated: 20180616
 #
 #fetched from adaway.org/hosts.txt
 #
@@ -47382,6 +47382,7 @@
 127.0.0.1 cashlayer.com
 127.0.0.1 cashpartner.com
 127.0.0.1 casinogames.com
+127.0.0.1 casinopays.com
 127.0.0.1 casinorewards.com
 127.0.0.1 casinotraffic.com
 127.0.0.1 casinotreasure.com
@@ -47565,7 +47566,6 @@
 127.0.0.1 decisiveducks.com
 127.0.0.1 decknetwork.net
 127.0.0.1 delightdriving.com
-127.0.0.1 deloo.de
 127.0.0.1 deloton.com
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
@@ -48256,6 +48256,7 @@
 127.0.0.1 pop-under.ru
 127.0.0.1 popads.net
 127.0.0.1 popflawlessads.com
+127.0.0.1 popmyads.com
 127.0.0.1 popub.com
 127.0.0.1 popunder.ru
 127.0.0.1 popup.msn.com
@@ -48827,7 +48828,6 @@
 127.0.0.1 woopra.com
 127.0.0.1 worldwide-cash.net
 127.0.0.1 wpnrtnmrewunrtok.xyz
-127.0.0.1 ws-gateway.com
 127.0.0.1 wt-eu02.net
 127.0.0.1 wtlive.com
 127.0.0.1 www-banner.chat.ru
