@@ -2,7 +2,7 @@
 ::1  localhost
 #
 # block ads via hosts file
-# last updated: 20180616
+# last updated: 20180702
 #
 #fetched from adaway.org/hosts.txt
 #
@@ -25837,7 +25837,6 @@
 127.0.0.1	cpmstatsart.com
 127.0.0.1	cpmtips.com
 127.0.0.1	cpmtown.com
-127.0.0.1	cpmtrip.com
 127.0.0.1	cpolixyndenisles.review
 127.0.0.1	cpro.baidu.com
 127.0.0.1	cpro.baidustatic.com
@@ -26261,7 +26260,6 @@
 127.0.0.1	da.feedsportal.com
 127.0.0.1	da.virginmedia.com
 127.0.0.1	da5c8.voluumtrk.com
-127.0.0.1	da60995df247712.com
 127.0.0.1	daaa.ero-advertising.com
 127.0.0.1	dacgb.voluumtrk.com
 127.0.0.1	daea.ero-advertising.com
@@ -26660,7 +26658,6 @@
 127.0.0.1	display.adsender.us
 127.0.0.1	display.online-adnetwork.com
 127.0.0.1	display.provenpixel.com
-127.0.0.1	display.ugc.bazaarvoice.com
 127.0.0.1	displayad.layer-ad.org
 127.0.0.1	displayadserv.adsimilate.com
 127.0.0.1	displayadsmedia.com
@@ -28697,6 +28694,7 @@
 127.0.0.1	ganoinihrjk.download
 127.0.0.1	gao.go2cloud.org
 127.0.0.1	garbo.2cnt.net
+127.0.0.1	garlanca.com
 127.0.0.1	garnishersqcltox.download
 127.0.0.1	garrigueatcuw.download
 127.0.0.1	garristo.com
@@ -29400,7 +29398,6 @@
 127.0.0.1	henbaneypgvxgt.download
 127.0.0.1	herbisttjojeo.download
 127.0.0.1	hernando.com
-127.0.0.1	hetsedryropt.com
 127.0.0.1	hexacash.com
 127.0.0.1	heywire.com
 127.0.0.1	heyzap.com
@@ -31418,7 +31415,6 @@
 127.0.0.1	lp.stargames.com
 127.0.0.1	lp.webgame.web.id
 127.0.0.1	lpm-20minutes.nuggad.net
-127.0.0.1	lprptestrouter2.website
 127.0.0.1	lptag.liveperson.net
 127.0.0.1	lpvzq.voluumtrk.com
 127.0.0.1	lqckn.voluumtrk.com
@@ -34907,7 +34903,6 @@
 127.0.0.1	roomkey.d1.sc.omtrdc.net
 127.0.0.1	rootzwiki.us.intellitxt.com
 127.0.0.1	ropnqabtmaths.review
-127.0.0.1	ropretratspar.com
 127.0.0.1	roritabo.com
 127.0.0.1	rose.ixbt.com
 127.0.0.1	rosettastone.tt.omtrdc.net
@@ -35658,7 +35653,6 @@
 127.0.0.1	seth.avazutracking.net
 127.0.0.1	setihome.com
 127.0.0.1	seto.createsend.com
-127.0.0.1	setswinners.trade
 127.0.0.1	settings-sandbox.data.microsoft.com
 127.0.0.1	settings-win.data.microsoft.com
 127.0.0.1	seu.cleverreach.com
@@ -36933,7 +36927,6 @@
 127.0.0.1	tags.msnbc.com
 127.0.0.1	tags.news.com.au
 127.0.0.1	tags.pixnet.net
-127.0.0.1	tags.tiqcdn.com
 127.0.0.1	tags.topshareware.com
 127.0.0.1	tags.toroadvertising.com
 127.0.0.1	tagx.nytimes.com
@@ -37961,7 +37954,6 @@
 127.0.0.1	twilightdata.com
 127.0.0.1	twinedigital.go2cloud.org
 127.0.0.1	twitter-badges.s3.amazonaws.com
-127.0.0.1	twoclickdeal.com
 127.0.0.1	twqlnorqcmesquite.review
 127.0.0.1	twsg21x6-22dcca05c0915aa0dad0a07273e7a3c5015ddc6d-am1.d.aa.online-metrix.net
 127.0.0.1	txel.snmmd.nl
@@ -42385,6 +42377,7 @@
 127.0.0.1	wallstreet.2cnt.net
 127.0.0.1	wallstreetprep.go2cloud.org
 127.0.0.1	walmartcom.112.2o7.net
+127.0.0.1	walmartsavingscatcher.com
 127.0.0.1	wamfebdvsabotier.review
 127.0.0.1	wan.duba.net
 127.0.0.1	wap-click.com
@@ -44290,7 +44283,6 @@
 127.0.0.1	www.invariancewnbfwwro.download
 127.0.0.1	www.inviterdczpqji.download
 127.0.0.1	www.ioam.de
-127.0.0.1	www.ionizerojaqavkz.top
 127.0.0.1	www.iperceptions.com
 127.0.0.1	www.ipfingerprint.com
 127.0.0.1	www.ipfovdeqdenaries.review
@@ -44340,7 +44332,6 @@
 127.0.0.1	www.jmplink.com
 127.0.0.1	www.jmqqopacmilligram.review
 127.0.0.1	www.jmyyyjhnzpeaching.review
-127.0.0.1	www.jocksfxudg.top
 127.0.0.1	www.joelnhfuabrim.review
 127.0.0.1	www.jollingymkovt.download
 127.0.0.1	www.jowarinzqmiak.download
@@ -44507,7 +44498,6 @@
 127.0.0.1	www.lotame.com
 127.0.0.1	www.lowndestdhlpcpo.download
 127.0.0.1	www.loxtk.com
-127.0.0.1	www.lprptestrouter2.website
 127.0.0.1	www.lrrtslskippers.review
 127.0.0.1	www.lslfrhpqarechating.review
 127.0.0.1	www.luminate.com
@@ -45502,6 +45492,7 @@
 127.0.0.1	www.wagerersivrvnemu.download
 127.0.0.1	www.wahoha.com
 127.0.0.1	www.walkingsgzezhx.download
+127.0.0.1	www.walmartsavingscatcher.com
 127.0.0.1	www.wamfebdvsabotier.review
 127.0.0.1	www.wantstraffic.com
 127.0.0.1	www.wap.co.il
@@ -46063,7 +46054,6 @@
 127.0.0.1	younglingsbcjzvozva.download
 127.0.0.1	your.365advert.com
 127.0.0.1	youradexchange.com
-127.0.0.1	yourappmarket.com
 127.0.0.1	yourcartoons.com
 127.0.0.1	yourhitstats.com
 127.0.0.1	yourlondonbridge.go2cloud.org
@@ -46455,7 +46445,6 @@
 127.0.0.1 adengage.com
 127.0.0.1 adexchangegate.com
 127.0.0.1 adexchangeprediction.com
-127.0.0.1 adexcite.com
 127.0.0.1 adexpose.com
 127.0.0.1 adext.inkclub.com
 127.0.0.1 adf.ly
@@ -46519,7 +46508,6 @@
 127.0.0.1 admarvel.com
 127.0.0.1 admax.nexage.com
 127.0.0.1 admedia.com
-127.0.0.1 admedia.ro
 127.0.0.1 admeld.com
 127.0.0.1 admerize.be
 127.0.0.1 admeta.com
@@ -46999,7 +46987,6 @@
 127.0.0.1 adsfac.us
 127.0.0.1 adside.com
 127.0.0.1 adsk2.co
-127.0.0.1 adskape.ru
 127.0.0.1 adsklick.de
 127.0.0.1 adsmarket.com
 127.0.0.1 adsmart.com
@@ -47203,7 +47190,6 @@
 127.0.0.1 b-1st.com
 127.0.0.1 b.aol.com
 127.0.0.1 b.engadget.com
-127.0.0.1 b0b1o.bid
 127.0.0.1 b59812ee54afcabd.com
 127.0.0.1 ba.afl.rakuten.co.jp
 127.0.0.1 babs.tv2.dk
@@ -47608,6 +47594,7 @@
 127.0.0.1 dynamic.fmpub.net
 127.0.0.1 dyntrk.com
 127.0.0.1 e-adimages.scrippsnetworks.com
+127.0.0.1 e-bannerx.com
 127.0.0.1 e-debtconsolidation.com
 127.0.0.1 e-m.fr
 127.0.0.1 e-n-t-e-r-n-e-x.com
@@ -47736,7 +47723,6 @@
 127.0.0.1 futuristicfairies.com
 127.0.0.1 fuzzyflavor.com
 127.0.0.1 fxstyle.net
-127.0.0.1 g3j2wzmon8b.com
 127.0.0.1 ga.clearbit.com
 127.0.0.1 galaxien.com
 127.0.0.1 game-advertising-online.com
@@ -47765,7 +47751,6 @@
 127.0.0.1 gorgeousground.com
 127.0.0.1 gostats.com
 127.0.0.1 gp.dejanews.com
-127.0.0.1 grafstat.ro
 127.0.0.1 grapeshot.co.uk
 127.0.0.1 graph.instagram.com
 127.0.0.1 greetzebra.com
@@ -48095,7 +48080,6 @@
 127.0.0.1 nativeroll.tv
 127.0.0.1 navigator.io
 127.0.0.1 navrcholu.cz
-127.0.0.1 nbhxgjz.com
 127.0.0.1 nbjmp.com
 127.0.0.1 ncaudienceexchange.com
 127.0.0.1 ndparking.com
@@ -48477,7 +48461,6 @@
 127.0.0.1 sixsigmatraffic.com
 127.0.0.1 skimresources.com
 127.0.0.1 skylink.vn
-127.0.0.1 slickaffiliate.com
 127.0.0.1 slopeaota.com
 127.0.0.1 smart.brvaffs.com
 127.0.0.1 smart4ads.com
@@ -48747,6 +48730,7 @@
 127.0.0.1 valueclick.com
 127.0.0.1 valueclickmedia.com
 127.0.0.1 valuecommerce.com
+127.0.0.1 valuesponsor.com
 127.0.0.1 variablefitness.com
 127.0.0.1 veille-referencement.com
 127.0.0.1 ventivmedia.com
